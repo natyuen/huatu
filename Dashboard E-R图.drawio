@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-06T13:11:47.187Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="LmREPHy3yQC1wleGwBt8" version="20.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-06T13:14:02.674Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="FVpdq2v-fl8lV6iD6Wi1" version="20.5.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1018" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -28,43 +28,43 @@
         <mxCell id="XuO8XnObHlx6Pe1Dl6JW-7" value="查询消费者体&lt;br&gt;系oneId数据&lt;br&gt;资产报告" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XuO8XnObHlx6Pe1Dl6JW-8" value="媒介可运营&lt;br&gt;资产报告" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XuO8XnObHlx6Pe1Dl6JW-8" value="查询媒介&lt;br&gt;可运营&lt;br&gt;资产报告" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="100" width="75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XuO8XnObHlx6Pe1Dl6JW-9" value="查询人群数据资产总览报告" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XuO8XnObHlx6Pe1Dl6JW-9" value="查询人群&lt;br&gt;数据资产&lt;br&gt;总览报告" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XuO8XnObHlx6Pe1Dl6JW-10" value="媒介人群类型分布报告" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="367.5" y="170" width="70" height="50" as="geometry" />
+        <mxCell id="XuO8XnObHlx6Pe1Dl6JW-10" value="查询媒介&lt;br&gt;人群类型&lt;br&gt;分布报告" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="367.5" y="170" width="82.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XuO8XnObHlx6Pe1Dl6JW-11" value="微信生态&lt;br&gt;资产报告" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="467.5" y="210" width="70" height="50" as="geometry" />
+        <mxCell id="XuO8XnObHlx6Pe1Dl6JW-11" value="查询微信&lt;br&gt;生态资产报告" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="467.5" y="210" width="82.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XuO8XnObHlx6Pe1Dl6JW-12" value="媒介数据来源分布报告" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="372.5" y="230" width="65" height="50" as="geometry" />
+        <mxCell id="XuO8XnObHlx6Pe1Dl6JW-12" value="查询媒介&lt;br&gt;数据来源&lt;br&gt;分布报告" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="230" width="77.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XuO8XnObHlx6Pe1Dl6JW-13" value="企微&lt;br&gt;资产报告" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XuO8XnObHlx6Pe1Dl6JW-13" value="查询企微&lt;br&gt;资产报告" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="370" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XuO8XnObHlx6Pe1Dl6JW-14" value="小程序&lt;br&gt;资产报告" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XuO8XnObHlx6Pe1Dl6JW-14" value="查询小程序&lt;br&gt;资产报告" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="495" y="315" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XuO8XnObHlx6Pe1Dl6JW-15" value="公众号&lt;br&gt;资产报告" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XuO8XnObHlx6Pe1Dl6JW-15" value="查询公众号&lt;br&gt;资产报告" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="260" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XuO8XnObHlx6Pe1Dl6JW-19" value="品牌&lt;br&gt;重合度报告" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XuO8XnObHlx6Pe1Dl6JW-19" value="查询品牌&lt;br&gt;重合度报告" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="580" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XuO8XnObHlx6Pe1Dl6JW-20" value="非会员&lt;br&gt;资产报告" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XuO8XnObHlx6Pe1Dl6JW-20" value="查询非会员&lt;br&gt;资产报告" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="377.5" y="570" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XuO8XnObHlx6Pe1Dl6JW-21" value="CRM指标&lt;br&gt;资产报告" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="402.5" y="510" width="70" height="50" as="geometry" />
+        <mxCell id="XuO8XnObHlx6Pe1Dl6JW-21" value="查询CRM&lt;br&gt;指标资产报告" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="402.5" y="510" width="97.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XuO8XnObHlx6Pe1Dl6JW-22" value="会员&lt;br&gt;资产报告" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XuO8XnObHlx6Pe1Dl6JW-22" value="查询会员&lt;br&gt;资产报告" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="450" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XuO8XnObHlx6Pe1Dl6JW-23" value="用户&lt;br&gt;资产报告" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XuO8XnObHlx6Pe1Dl6JW-23" value="查询用户&lt;br&gt;资产报告" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="332.5" y="400" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XuO8XnObHlx6Pe1Dl6JW-32" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="XuO8XnObHlx6Pe1Dl6JW-4" target="XuO8XnObHlx6Pe1Dl6JW-9" edge="1">
